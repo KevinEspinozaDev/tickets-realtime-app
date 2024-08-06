@@ -1,4 +1,4 @@
-# Rest Project + TypeScript
+# Websockets Node Project + TypeScript
 
 Este proyecto trabaja con TypeScript, Express y Rest.
 
